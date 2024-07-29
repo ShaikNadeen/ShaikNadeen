@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ShaikNadeen
-- 👀 I’m interested in mern
-- 🌱 I’m currently learning next and bit ai
-- 💞️ I’m looking to collaborate on mern
+
 
 
 <!---
