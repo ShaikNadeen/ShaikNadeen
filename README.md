@@ -1,12 +1,14 @@
+<h1 align="center">Hi 👋, I'm Nadeen shaik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm nadeenshaik 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiknadeen&label=Profile%20views&color=0e75b6&style=flat" alt="shaiknadeen" /> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShaikNadeen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShaikNadeen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikNadeen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaiknadeen" alt="shaiknadeen" /></a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ShaikNadeen&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiknadeen&show_icons=true&locale=en&layout=compact" alt="shaiknadeen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiknadeen&show_icons=true&locale=en" alt="shaiknadeen" /></p>
